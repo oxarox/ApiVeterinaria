@@ -1,0 +1,808 @@
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\appsettings.Development.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\appsettings.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.deps.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.dev.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ref\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Humanizer.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Convention.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\MySql.Data.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Google.Protobuf.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.AssemblyReference.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfoInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CoreCompileInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.Manifest.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.xml
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\scopedcss\bundle\Siglo21APIRest.styles.css
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.RazorTargetAssemblyInfo.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CopyComplete
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\ref\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.genruntimeconfig.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\Dapper.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\ZstdNet.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.Development.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.deps.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.dev.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ref\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Dapper.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Google.Protobuf.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Humanizer.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\MySql.Data.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ZstdNet.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Convention.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.AssemblyReference.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfoInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CoreCompileInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.Manifest.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.xml
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\scopedcss\bundle\Siglo21APIRest.styles.css
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.RazorTargetAssemblyInfo.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CopyComplete
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\ref\Siglo21APIRest.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.genruntimeconfig.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\appsettings.json
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.exe
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.deps.json
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.json
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.dev.json
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ref\Siglo21APIRest.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Dapper.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.AssemblyReference.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfoInputs.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfo.cs
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.Manifest.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.xml
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\scopedcss\bundle\Siglo21APIRest.styles.css
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.RazorTargetAssemblyInfo.cache
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CopyComplete
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\ref\Siglo21APIRest.dll
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\sistemas\Documents\oxarox\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.genruntimeconfig.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.StaticWebAssets.xml
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.exe
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.deps.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.dev.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Dapper.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.AssemblyReference.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfoInputs.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfo.cs
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CoreCompileInputs.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\scopedcss\bundle\Siglo21APIRest.styles.css
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.Manifest.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.RazorTargetAssemblyInfo.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CopyComplete
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\refint\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.genruntimeconfig.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\ref\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\AppSettings.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Middleware.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\PluginManager.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\SharedLib.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\SharedPluginFeatures.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.AssemblyReference.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfoInputs.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.AssemblyInfo.cs
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CoreCompileInputs.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\refint\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.StaticWebAssets.xml
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\appsettings.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.exe
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.deps.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.runtimeconfig.dev.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Siglo21APIRest.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\AppSettings.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Dapper.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Cors.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Web.Http.Cors.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Middleware.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ZstdNet.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\PluginManager.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\SharedLib.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\SharedPluginFeatures.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Data.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\scopedcss\bundle\Siglo21APIRest.styles.css
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\staticwebassets\Siglo21APIRest.StaticWebAssets.Manifest.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.RazorTargetAssemblyInfo.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.csproj.CopyComplete
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\Siglo21APIRest.genruntimeconfig.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\Siglo21APIRest\obj\Debug\net5.0\ref\Siglo21APIRest.dll

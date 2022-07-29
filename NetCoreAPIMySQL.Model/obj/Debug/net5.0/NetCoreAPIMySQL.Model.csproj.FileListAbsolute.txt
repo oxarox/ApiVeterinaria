@@ -1,0 +1,60 @@
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.deps.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\bin\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\SolucionSiglo21APIRest\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.deps.json
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\bin\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+C:\Users\sistemas\Documents\oxarox\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.deps.json
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+Z:\Univerciadad\2022\Primer Semestre\Programacion Avanzada\APIResrsiglo21ByGit\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.deps.json
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\refint\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\MouseWithoutBorders\ApiRestSiglo21\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.deps.json
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\bin\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.AssemblyReference.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfoInputs.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.AssemblyInfo.cs
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.csproj.CoreCompileInputs.cache
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\refint\NetCoreAPIMySQL.Model.dll
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\NetCoreAPIMySQL.Model.pdb
+C:\Users\Socius\Desktop\Programacion avanzada\ApiRestSiglo21\NetCoreAPIMySQL.Model\obj\Debug\net5.0\ref\NetCoreAPIMySQL.Model.dll
